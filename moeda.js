@@ -1,3 +1,3 @@
 export default {
-    moeda: 'BRL'
+    teste123
 }
