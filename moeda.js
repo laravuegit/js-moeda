@@ -1,3 +1,4 @@
 export default {
-    moeda: 'BRL'
+    moeda: 'BRL',
+    mais_coisa: 'SEi la'
 }
