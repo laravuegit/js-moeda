@@ -1,3 +1,4 @@
 export default {
-    moeda: 'BRL'
+    real: 'BRL',
+    dolar: 'USD'
 }
