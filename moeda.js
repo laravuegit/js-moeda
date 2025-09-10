@@ -1,3 +1,4 @@
 export default {
-    moeda: 'BRL'
+    Brasil: 'BRL',
+    EUA: 'URS'
 }
