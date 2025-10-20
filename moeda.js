@@ -1,3 +1,5 @@
 export default {
-    moeda: 'BRL'
-}
+    moeda: 'BRL',
+    preco: 17.89
+};
+
